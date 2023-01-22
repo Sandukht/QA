@@ -1,0 +1,42 @@
+arr[0] is 4
+arr[1] is 5
+arr[2] is 5
+arr[3] is 6
+arr[4] is 3
+arr[5] is 1
+
+result is 5
+arr is 00E1F220
+arr[0] is -4
+arr[1] is 8
+arr[2] is 66
+arr[3] is 4
+arr[4] is 8
+
+result is 4
+arr is 00E1BD38
+arr[0] is 3
+arr[1] is 22
+arr[2] is 23
+arr[3] is 23
+arr[4] is 23
+
+result is 3
+arr is 00E1BD38
+arr[0] is 1
+arr[1] is 2
+arr[2] is 3
+arr[3] is 4
+arr[4] is 5
+
+result is 5
+arr is 00E1BD38
+arr[0] is 8
+arr[1] is 8
+arr[2] is 8
+arr[3] is 8
+arr[4] is 8
+arr[5] is 8
+
+result is 0
+arr is 00E1F3D0
