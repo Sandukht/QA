@@ -1,0 +1,17 @@
+m1 command's false was completed!
+m2 command's true was completed!
+m3 command's false was completed!
+m2 command's true was completed!
+m3 command's false was completed!
+m2 command's false was completed!
+m1 command's true was completed!
+m1 command's false was completed!
+m2 command's true was completed!
+m3 command's true was completed!
+m1 command's false was completed!
+m2 command's true was completed!
+m3 command's false was completed!
+m2 command's true was completed!
+m3 command's false was completed!
+m2 command's true was completed!
+m3 command's true was completed!
